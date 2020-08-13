@@ -19,4 +19,4 @@ public class equalSumChecker{
      }
 }
 
-prompt: Ask for three number, output wether the sum of the first two numbers is equal or not equal to the third number.
+//Prompt: Ask for three number, output wether the sum of the first two numbers is equal or not equal to the third number.
