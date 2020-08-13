@@ -17,4 +17,4 @@ public class Main {
 }
 
 
-Prompt: ask for a number of kilobytes output the number of mega bytes and kilobytes of that number.
+//Prompt: ask for a number of kilobytes output the number of mega bytes and kilobytes of that number.
