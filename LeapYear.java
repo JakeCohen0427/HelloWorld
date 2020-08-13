@@ -32,4 +32,4 @@ public class LeapYear {
  }
 }
 
-Prompt: ask for a number and output if it is a leap year or not.
+//Prompt: ask for a number and output if it is a leap year or not.
